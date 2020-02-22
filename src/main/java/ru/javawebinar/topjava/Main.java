@@ -1,6 +1,5 @@
 package ru.javawebinar.topjava;
 
-import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
 import ru.javawebinar.topjava.util.UserMealsUtil;
 
 public class Main {
